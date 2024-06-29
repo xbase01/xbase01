@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jude and I'm a passionate bioinformatician/biocurator based in Moscow.</h2>
+<h2 align="left">Hi 👋! My name is Jude and I'm a passionate bioinformatician/biocurator base in Moscow.</h2>
 
 - 🔭 I’m currently working on **analyzing the molecular processes of novel CTD-2587H24.5**
 
