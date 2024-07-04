@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Apache Spark for large-scale genomic data processing**
 
-- 👯 I’m looking to collaborate on **bioinformatic tools that improve the speed of analyzing genomic data**
+- 👯 I’m looking to collaborate on ** bioinformatic tools for high-throughput, error-corrected analysis of large genomic datasets**
 
 - 🤝 I’m looking for help with **BioZoomX 🙂**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/judeaneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judeaneke" height="30" width="40" /></a>
 </p>
 
 
